@@ -1,6 +1,18 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Truong Nguyen Manh </p>
+logo: /assets/img/logo.jpg
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/tr%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-m%E1%BA%A1nh-89112255/">LinkedIn</a> |
+  <a href="https://github.com/troytruong">GitHub</a>
+  
+  <br>   
+  I'm working on Software Development Industry for 11 years.
+  Worked with DXC.
+  Working in Litium project at Niteco for 1.5 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
